@@ -1,0 +1,46 @@
+{
+  "bot-account": {
+    "username": "aplusv",
+    "password": "",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "aplusv.aternos.me",
+    "port": 31096,
+    "version": "1.16.4"
+  },
+
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": false,
+      "password": "" 
+    }, 
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": false
+    },
+
+    "chat-messages": {
+      "enabled": false,
+      "repeat": false,
+      "repeat-delay": 300,
+
+      "messages": [
+          "lovro pederko"
+      ]
+    },
+
+    "chat-log": false,
+    "auto-reconnect": true,
+    "auto-reconnect-delay": 10000
+  }
+}
